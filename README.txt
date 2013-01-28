@@ -1,4 +1,4 @@
-
+nainit
 
 
 To install TomatoCMS, see install_guide.txt in "install" folder 
